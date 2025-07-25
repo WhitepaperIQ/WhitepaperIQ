@@ -273,7 +273,7 @@ WhitepaperIQ provides analysis and insights for informational and educational pu
 - **Media & Press**: Information for journalists and media coverage
 
 ### Community Channels
-- **Website**: [WhitepaperIQ.com](https://whitepaperiq.com)
+- **Website**: [WhitepaperIQ.com](https://whitepaperiq.xyz)
 - **Twitter**: [@WhitepaperIQ](https://x.com/whitepaperIQ) - Latest updates and market insights
 ---
 
